@@ -1,8 +1,9 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
+import 'config.dart';
 
 class GeminiService {
-  static const String apiKey = "AIzaSyBA1xahidEO2rgOawd_nK87wpIPOARLS8s";
+  static const apiKey = api_key;
 
   Future<String> getSolution(String problem) async {
     final url =
