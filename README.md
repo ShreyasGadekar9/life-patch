@@ -1,6 +1,6 @@
 # 🌿 Life Patch
 
-**Life Patch** is a simple Flutter app that helps users get quick solutions for everyday problems like stress, back pain, low mood, etc., along with helpful product suggestions.
+**Life Patch** enables users to describe their issue in just a few words (e.g., “back pain”, “feeling low”) and instantly receive concise, meaningful guidance. The app combines AI-powered insights with practical recommendations, creating a seamless and helpful user experience.
 
 ---
 
@@ -24,8 +24,9 @@
 
 * **Flutter**
 * **Dart**
-* **AI Integration (Gemini API or similar)**
+* **AI Integration (Gemini API)**
 * **Android Studio**
+* **Firebase**
 
 ---
 
@@ -72,9 +73,10 @@ assets/
 
 ## 🎯 Future Improvements
 
-* 🔐 User authentication
+* 🔐 Improved User authentication
 * 📊 Personalized suggestions
 * 🌐 Multi-language support
+* 📝 Solution History & Tracking
 * 🎨 UI enhancements
 
 ---
@@ -98,4 +100,3 @@ GitHub: https://github.com/ShreyasGadekar9
 
 ---
 
-⭐ If you like this project, give it a star!
